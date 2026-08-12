@@ -61,5 +61,3 @@ $_GET = Data is appended to the url
 
     echo "You have ordered {$quantity} {$item}'s <br>";
     echo "Your total is: \${$total}";
-
-    //test
