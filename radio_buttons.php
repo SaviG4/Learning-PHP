@@ -21,6 +21,8 @@
 </html>
 
 <?php
+
+    //can also use switches here instead of if statements
     if(isset($_POST["confirm"])) {
 
         $credit_card = null;
