@@ -18,7 +18,7 @@
     $capitals = array("UK" => "London",
                       "Italy" => "Rome",
                       "Japan" => "Tokyo",
-                      "Kenya" => "Naiobi");
+                      "Kenya" => "Nairobi");
 
     $capital = $capitals[$_POST["country"]];
     echo "The capital of {$_POST["country"]} is {$capital}";
